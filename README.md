@@ -6,7 +6,6 @@ Manual testing is the process of manually executing test cases without using any
 
 ## Software
 - [Google Sheets](https://workspace.google.com/products/sheets/): For writing test cases and other contents.
-- [Google Chrome](https://www.google.com/chrome/): For testing and finding bugs. You can use any other web application.
 
 ## Modules Covered
 - **Account Management:**  
@@ -59,18 +58,19 @@ Review the test cases, which include the following columns:
 
 - Module
 
-- Test Steps
+- Test Cases
 
 - Expected Result
 
 - Actual Result
 
+- Test Steps
+
+- Bug Screenshot
+
 - Status (Pass/Fail)
 
-Execute the test cases as per the defined steps and document your results in the `Actual Result` and `Status` columns.  
-
-## Test Scenarios
-Writing test scenarios for manual testing is an essential step in the quality assurance process. Test scenarios help ensure that all possible actions and workflows within the application are tested effectively.
+Execute the test cases as per the defined steps and document results in the `Actual Result` and `Status` columns.  
 
 ## Test Case Writing
 Main part of the project. After doing all the things that helps to write and execute the test cases more specific. In this project all the test cases have been executed without having any delay. 
