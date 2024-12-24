@@ -50,7 +50,7 @@ Clone the repository:
 
 `git clone https://github.com/jasminakterr/Test-Case-for-Hishabee-Business-App.git`
 
-Open the `TestCases.xlsx` file using a spreadsheet editor (e.g., Microsoft Excel, Google Sheets).
+Open the `Test_Case_Writing_for_Hishabee_Business_App.xlsx` file using a spreadsheet editor (e.g., Microsoft Excel, Google Sheets).
 
 Review the test cases, which include the following columns:
 
